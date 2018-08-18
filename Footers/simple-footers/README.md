@@ -1,0 +1,1 @@
+This is a simple website footer, as I learned it in CodeBerry Programming School.
