@@ -1,0 +1,1 @@
+A simple blog header, as taught to me in CodeBerry Programming School.
